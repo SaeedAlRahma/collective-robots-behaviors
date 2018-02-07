@@ -34,4 +34,4 @@ The flocking design relied on homing and dispersion to achieve the robots goal. 
 
 [Demo Simulation - marked centroid and path](https://youtu.be/5lDIuC-ugkE)
 
-Detailed results in results.docx.
+Detailed results in [results.docx](https://github.com/SaeedAlRahma/collective-robots-behaviors/blob/master/results.docx).
